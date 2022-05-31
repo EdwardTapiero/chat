@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Chat-cifrado-main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Chat_cifrado_main_jar</output-path>
+    <root id="archive" name="Chat-cifrado-main.jar">
+      <element id="module-output" name="chatserver" />
+      <element id="module-output" name="chatcliente" />
+    </root>
+  </artifact>
+</component>
